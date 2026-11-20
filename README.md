@@ -5,7 +5,7 @@
   </picture>
 </a>
 
-Engineering student at Queen's University in Kingston, Ontario. I build tools for engineering teams, websites, and the odd experiment.
+Engineering student at Queen's University in Kingston, Ontario. I do whatever I like with code.
 
 [Website](https://torstenyoung.com) · [Work](https://torstenyoung.com/en/work/) · [Photos](https://photos.torstenyoung.com) · [LinkedIn](https://www.linkedin.com/in/torsten-young/)
 
