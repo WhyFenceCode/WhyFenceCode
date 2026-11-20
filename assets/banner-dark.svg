@@ -37,7 +37,7 @@
   .sig path { animation: none; stroke-dashoffset: 0; fill-opacity: 1; stroke-opacity: 0; }
 }
 </style>
-<rect width="1280" height="450" fill="#161616"/>
+<rect width="1280" height="450" rx="14" fill="#161616"/>
 <text class="mono fg" x="48" y="58">Torsten Young<tspan class="dot" dx="2">.</tspan></text>
 <text class="mono" x="1232" y="58" text-anchor="end">Engineering Student · Kingston, Ontario</text>
 <line class="rule" x1="48" y1="78" x2="1232" y2="78" pathLength="1"/>

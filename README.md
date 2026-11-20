@@ -1,31 +1,22 @@
-<a href="https://torstenyoung.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Torsten Young. Engineering student at Queen's University and hobby photographer." src="assets/banner-light.svg" width="100%">
-  </picture>
-</a>
+<div>
+<a href="https://torstenyoung.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img alt="Torsten Young. Engineering student at Queen's University in Kingston, Ontario. I do whatever I like with code." src="assets/banner-light.svg" width="100%"></picture></a>
+<br><br>
+<a href="https://torstenyoung.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-website-dark.svg"><img alt="Website" src="assets/link-website-light.svg"></picture></a>
+<a href="https://torstenyoung.com/en/projects/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-projects-dark.svg"><img alt="Projects" src="assets/link-projects-light.svg"></picture></a>
+<a href="https://torstenyoung.com/en/blog/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-blog-dark.svg"><img alt="Blog" src="assets/link-blog-light.svg"></picture></a>
+<a href="https://photos.torstenyoung.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-photos-dark.svg"><img alt="Photos" src="assets/link-photos-light.svg"></picture></a>
+<a href="https://www.linkedin.com/in/torsten-young/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img alt="LinkedIn" src="assets/link-linkedin-light.svg"></picture></a>
+<br><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg"><img alt="Engineering student at Queen's University in Kingston, Ontario. I do whatever I like with code. Featured work" src="assets/intro-light.svg" width="100%"></picture>
+<br><br>
+<a href="https://github.com/WhyFenceCode/personal-site"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/personal-site-dark.svg"><img alt="Personal site: The source of torstenyoung.com: Astro, React and Three.js, with ink and a 3D name." src="assets/personal-site-light.svg" width="49%"></picture></a>
+<a href="https://github.com/WhyFenceCode/photo-site"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/photo-site-dark.svg"><img alt="Photo site: The source of photos.torstenyoung.com, my photography." src="assets/photo-site-light.svg" width="49%"></picture></a>
+<a href="https://github.com/WhyFenceCode/extracurricular-api"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/extracurricular-api-dark.svg"><img alt="Extracurricular API" src="assets/extracurricular-api-light.svg" width="49%"></picture></a>
+<a href="https://github.com/WhyFenceCode/casthub"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/casthub-dark.svg"><img alt="Cast Hub" src="assets/casthub-light.svg" width="49%"></picture></a>
+<a href="https://github.com/IrisShaders/docs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/docs-dark.svg"><img alt="Iris docs: The documentation site for Iris, the Minecraft shader mod: shaders.properties." src="assets/docs-light.svg" width="49%"></picture></a>
+<a href="https://github.com/WhyFenceCode/ChangingGrid"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ChangingGrid-dark.svg"><img alt="Changing Grid: A grid that keeps changing, live in the browser at whyfencecode.github.io/ChangingGrid." src="assets/ChangingGrid-light.svg" width="49%"></picture></a>
+</div>
 
-Engineering student at Queen's University in Kingston, Ontario. I do whatever I like with code.
-
-[Website](https://torstenyoung.com) · [Projects](https://torstenyoung.com/en/projects/) · [Blog](https://torstenyoung.com/en/blog/) · [Photos](https://photos.torstenyoung.com) · [LinkedIn](https://www.linkedin.com/in/torsten-young/)
-
-<a href="https://github.com/WhyFenceCode/personal-site"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/personal-site-dark.svg">
-  <img alt="Personal site: the source of torstenyoung.com" src="assets/personal-site-light.svg" width="49%">
-</picture></a>
-<a href="https://github.com/WhyFenceCode/photo-site"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/photo-site-dark.svg">
-  <img alt="Photo site: the source of photos.torstenyoung.com" src="assets/photo-site-light.svg" width="49%">
-</picture></a>
-<a href="https://github.com/WhyFenceCode/extracurricular-api"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/extracurricular-api-dark.svg">
-  <img alt="Extracurricular API: a free JSON API of university extracurriculars" src="assets/extracurricular-api-light.svg" width="49%">
-</picture></a>
-<a href="https://github.com/WhyFenceCode/casthub"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/casthub-dark.svg">
-  <img alt="Cast Hub: a branded Fedora system that doubles as an AirPlay and Miracast screen" src="assets/casthub-light.svg" width="49%">
-</picture></a>
-
-<!-- The banner and the repo cards are generated by the website (personal-site: src/pages/github-banner-[theme].svg.ts
-     and src/pages/github/[card].svg.ts; the cards' repos are github.cards in src/config/site.yaml).
-     To update them: build the site, then copy /github-banner-*.svg and dist/github/*.svg into assets/. -->
+<!-- Generated by the website (personal-site: src/lib/github-profile.ts, from github: in src/config/site.yaml).
+     To update: build the site, copy dist/github/README.md here, and copy dist/github-banner-*.svg and
+     dist/github/*.svg into assets/ (renaming github-banner-<theme>.svg to banner-<theme>.svg). -->
